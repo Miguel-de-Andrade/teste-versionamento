@@ -20,7 +20,7 @@ Durante o desenvolvimento deste projeto, são aplicadas operações essenciais d
 
 Este projeto tem finalidade **exclusivamente educacional**, servindo como base para o aprendizado das boas práticas de versionamento e colaboração em projetos de desenvolvimento de software.
 
-## Conceitos praticados
+
 
 ---
 
