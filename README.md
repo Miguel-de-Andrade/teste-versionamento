@@ -22,16 +22,6 @@ Este projeto tem finalidade **exclusivamente educacional**, servindo como base p
 
 ## Conceitos praticados
 
-| Conceito | Descrição |
-|---|---|
-| **Repositório** | Estrutura onde o histórico do projeto é versionado |
-| **Commit** | Registro de uma alteração no código, com mensagem descritiva |
-| **Push** | Envio dos commits locais para o repositório remoto |
-| **Branch** | Linha de desenvolvimento paralela, usada para novas features ou testes |
-| **Merge** | União das alterações de uma branch com outra |
-
-
-
 ---
 
 <p align="center">Feito para fins de aprendizado.</p>
